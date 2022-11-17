@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://bbshet.github.io/app.ipa</string>
+		<string>https://bbshet.github.io/manifest.plist</string>
 		<key>displayImageURL</key>
-		<string>https://bbshet.github.io/57x57.png</string>
+		<string>https://bbshet.github.io/manifest.plist</string>
 		<key>fullSizeImageURL</key>
-		<string>https://bbshet.github.io/512x512.png</string>
+		<string>https://bbshet.github.io/manifest.plist</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
@@ -31,6 +31,6 @@
 	<key>teamID</key>
 	<string>X7HLABK3WZ</string>
 	<key>thinning</key>
-	<string>iPhone12,8</string>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
