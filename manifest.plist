@@ -17,28 +17,153 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://whitesmith.co/apps/mealcard-57x57.png</string>
+					<string>https://bbshet.github.io/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://whitesmith.co/apps/mealcard-512x512.png</string>
+					<string>https://bbshet.github.io/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>co.whitesmith.mealcard</string>
+				<string>com.bgw.walletfun</string>
 				<key>bundle-version</key>
 				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
-				<string>com.bgw.walletfun</string>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Mealcard</string>
+				<string>bgw</string>
 			</dict>
+			<key>thinned-assets</key>
+			<array>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.bgw.walletfun</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://bbshet.github.io/app-DEFC15BB-84AD-4C1B-8879-7248A5E1F5AC.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,8</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.bgw.walletfun</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://bbshet.github.io/app-867AEBA3-461E-42B1-B263-BB927850CD58.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,8</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone9,1</string>
+						<string>iPhone10,1</string>
+						<string>iPhone10,4</string>
+						<string>iPhone12,8</string>
+						<string>iPhone9,3</string>
+					</array>
+				</dict>
+			</array>
 		</dict>
 	</array>
 </dict>
