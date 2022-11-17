@@ -2,53 +2,43 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>app.ipa</key>
+	<key>items</key>
 	<array>
 		<dict>
-			<key>architectures</key>
+			<key>assets</key>
 			<array>
-				<string>arm64</string>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://bbshet.github.io/app.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://whitesmith.co/apps/mealcard-57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://whitesmith.co/apps/mealcard-512x512.png</string>
+				</dict>
 			</array>
-			<key>buildNumber</key>
-			<string>1.0.5</string>
-			<key>certificate</key>
+			<key>metadata</key>
 			<dict>
-				<key>SHA1</key>
-				<string>F0EC561587153CC2660632C08ADC56A5E96BD8B2</string>
-				<key>dateExpires</key>
-				<string>2023/10/9</string>
-				<key>type</key>
-				<string>Apple Distribution</string>
+				<key>bundle-identifier</key>
+				<string>co.whitesmith.mealcard</string>
+				<key>bundle-version</key>
+				<string>1.0.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.bgw.walletfun</string>
+				<key>title</key>
+				<string>Mealcard</string>
 			</dict>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>X7HLABK3WZ.com.bgw.walletfun</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>X7HLABK3WZ</string>
-				<key>get-task-allow</key>
-				<false/>
-			</dict>
-			<key>name</key>
-			<string>app.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>009656b1-efd2-4939-b8fb-db0a397a485a</string>
-				<key>dateExpires</key>
-				<string>2023/10/9</string>
-				<key>name</key>
-				<string>bgwhoc</string>
-			</dict>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>X7HLABK3WZ</string>
-				<key>name</key>
-				<string>Yifan Li</string>
-			</dict>
-			<key>versionNumber</key>
-			<string>1.0.5</string>
 		</dict>
 	</array>
 </dict>
